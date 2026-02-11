@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+echo "CLINE TASK STARTED at $(date)" >> .clinerules/telemetry/log.txt
